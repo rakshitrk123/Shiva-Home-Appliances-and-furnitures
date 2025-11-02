@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung 324L Frost Free Refrigerator",
+    "brand": "Samsung",
+    "category": "appliances",
+    "price": 30990,
+    "short": "Digital Inverter, 3-Star",
+    "image": "assets/img/sample_fridge.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LG 7kg Front Load Washing Machine",
+    "brand": "LG",
+    "category": "appliances",
+    "price": 26990,
+    "short": "Inverter Direct Drive, 1200 RPM",
+    "image": "assets/img/sample_wm.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony 55\" 4K Smart TV",
+    "brand": "Sony",
+    "category": "appliances",
+    "price": 59990,
+    "short": "Google TV, Dolby Vision",
+    "image": "assets/img/sample_tv.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Blue Star 1.5 Ton 5-Star Inverter AC",
+    "brand": "Blue Star",
+    "category": "appliances",
+    "price": 42990,
+    "short": "Copper Condenser, Turbo Cool",
+    "image": "assets/img/sample_ac.jpg"
+  },
+  {
+    "id": 5,
+    "name": "3-Seater Fabric Sofa",
+    "brand": "House Brand",
+    "category": "furniture",
+    "price": 19990,
+    "short": "Stain-resistant fabric, solid wood frame",
+    "image": "assets/img/sample_sofa.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Queen Size Bed with Storage",
+    "brand": "House Brand",
+    "category": "furniture",
+    "price": 24990,
+    "short": "Hydraulic lift, engineered wood",
+    "image": "assets/img/sample_bed.jpg"
+  },
+  {
+    "id": 7,
+    "name": "6-Seater Dining Set",
+    "brand": "House Brand",
+    "category": "furniture",
+    "price": 27990,
+    "short": "Sheesham wood, cushioned chairs",
+    "image": "assets/img/sample_dining.jpg"
+  },
+  {
+    "id": 8,
+    "name": "2-Door Wardrobe",
+    "brand": "House Brand",
+    "category": "furniture",
+    "price": 14990,
+    "short": "Soft-close hinges, hanging & shelves",
+    "image": "assets/img/sample_wardrobe.jpg"
+  }
+]
